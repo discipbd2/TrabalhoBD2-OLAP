@@ -57,13 +57,37 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         c) inclusão das instruções para execução de outros procedimentos necessários
 
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
-####9.1	SELECT DAS TABELAS COM PRIMEIROS 10 REGISTROS INSERIDOS<br>
-####9.2	SELECT DAS VISÕES COM PRIMEIROS 10 REGISTROS DA VIEW<br> 
-####9.3	LISTA E CODIGOS DAS FUNÇOES, ASSERÇOES E TRIGGERS<br>
-####9.4	GERACAO DE DADOS (MÍNIMO DE 1,5 MILHÃO DE REGISTROS PARA PRINCIPAL RELAÇAO)<br>
+####9.1	GERACAO DE DADOS (MÍNIMO DE 1,5 MILHÃO DE REGISTROS PARA PRINCIPAL RELAÇAO)<br>
+    Data de Entrega: 19/10/2016
+<br>
+####9.2	SELECT DAS TABELAS COM PRIMEIROS 10 REGISTROS INSERIDOS<br> 
+    Data de Entrega: 26/10/2016
+<br>
+####9.3	SELECT DAS VISÕES COM PRIMEIROS 10 REGISTROS DA VIEW<br>
+    Data de Entrega: 26/10/2016
+<br>
+####9.4	LISTA DE CODIGOS DAS FUNÇÕES, ASSERÇOES E TRIGGERS<br>
+        Detalhamento sobre funcionalidade de cada código.
+        a) Objetivo
+        b) Código do objeto (função/trigger/asserção)
+        c) exemplo de dados para aplicação
+        d) resultados em forma de tabela/imagem
+<br>
+Data de Entrega: 09/11/2016
+<br>        
 ####9.5	APLICAÇAO DE ÍNDICES E TESTES DE PERFORMANCE<br>
-
-###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
+<br>
+    Data de Entrega: 16/11/2016
+<br>   
+####9.6	ANÁLISE DOS DADOS COM ORANGE<br>    
+    a) aplicação de algoritmos e interpretação dos resultados
+<br>
+    Data de Entrega: 16/11/2016
+<br>
+###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO/ SLIDES E APRESENTAÇÃO FINAL<br>
+<br>
+    Data de Entrega: 23/11/2016
+<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
