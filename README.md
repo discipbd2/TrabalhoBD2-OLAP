@@ -76,6 +76,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 Data de Entrega: 09/11/2016
 <br>        
 ####9.5	APLICAÇAO DE ÍNDICES E TESTES DE PERFORMANCE<br>
+    a) Lista de índices, tipos de índices com explicação de porque foram implementados
+    b) Performance esperada VS Resultados obtidos
+    c) Tabela de resultados comparando velocidades antes e depois da aplicação dos índices.
 <br>
     Data de Entrega: 16/11/2016
 <br>   
@@ -84,13 +87,9 @@ Data de Entrega: 09/11/2016
 <br>
     Data de Entrega: 16/11/2016
 <br>
-###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO/ SLIDES E APRESENTAÇÃO FINAL<br>
+###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO/ SLIDES E ENTREGA FINAL<br>
 <br>
     Data de Entrega: 23/11/2016
 <br>
-###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>  
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
-
-
-
-
