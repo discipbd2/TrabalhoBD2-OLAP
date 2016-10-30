@@ -60,6 +60,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ####9.1	GERACAO DE DADOS (MÍNIMO DE 1,5 MILHÃO DE REGISTROS PARA PRINCIPAL RELAÇAO)<br>
     Data de Entrega: 19/10/2016
 <br>
+OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
+
 ####9.2	SELECT DAS TABELAS COM PRIMEIROS 10 REGISTROS INSERIDOS<br> 
     Data de Entrega: 26/10/2016
 <br>
