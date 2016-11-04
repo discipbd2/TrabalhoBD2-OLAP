@@ -46,12 +46,12 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
-        Referenciar todas as fontes referentes a :
+        Referenciar todas as fontes referentes a:
         a) obtenção dos dados
         b) obtenção de códigos reutilizados
         c) fontes de estudo para desenvolvimento do projeto
         
-####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
+####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELAS E INSERÇÃO DOS DADOS. ARQUIVO ÚNICO COM:
         a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
         b) inclusão das instruções de inserção dos dados nas referidas tabelas
         c) inclusão das instruções para execução de outros procedimentos necessários
@@ -79,8 +79,10 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
         Detalhamento do backup.
         a) Tempo
         b) Tamanho
-        c) Teste de restauração 
+        c) Teste de restauração (backup)
         d) Tempo para restauração
+        e) Teste de restauração (script sql)
+        f) Tempo para restauração (script sql)
 <br>
 Data de Entrega: 09/11/2016
 <br>
