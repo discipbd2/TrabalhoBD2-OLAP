@@ -75,16 +75,23 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
         c) exemplo de dados para aplicação
         d) resultados em forma de tabela/imagem
 <br>
+####9.5	Backup do Banco de Dados<br>
+        Detalhamento do backup.
+        a) Tempo
+        b) Tamanho
+        c) Teste de restauração 
+        d) Tempo para restauração
+<br>
 Data de Entrega: 09/11/2016
-<br>        
-####9.5	APLICAÇAO DE ÍNDICES E TESTES DE PERFORMANCE<br>
+<br>
+####9.6	APLICAÇAO DE ÍNDICES E TESTES DE PERFORMANCE<br>
     a) Lista de índices, tipos de índices com explicação de porque foram implementados
     b) Performance esperada VS Resultados obtidos
     c) Tabela de resultados comparando velocidades antes e depois da aplicação dos índices.
 <br>
     Data de Entrega: 16/11/2016
 <br>   
-####9.6	ANÁLISE DOS DADOS COM ORANGE<br>    
+####9.7	ANÁLISE DOS DADOS COM ORANGE<br>    
     a) aplicação de algoritmos e interpretação dos resultados
 <br>
     Data de Entrega: 16/11/2016
