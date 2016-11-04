@@ -51,7 +51,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         b) obtenção de códigos reutilizados
         c) fontes de estudo para desenvolvimento do projeto
         
-####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELAS E INSERÇÃO DOS DADOS. ARQUIVO ÚNICO COM:
+####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELAS E INSERÇÃO DOS DADOS (ARQUIVO ÚNICO COM):
         a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
         b) inclusão das instruções de inserção dos dados nas referidas tabelas
         c) inclusão das instruções para execução de outros procedimentos necessários
