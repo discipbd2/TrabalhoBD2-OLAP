@@ -73,15 +73,19 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
 ####9.1	GERACAO DE DADOS (MÍNIMO DE 1,5 MILHÃO DE REGISTROS PARA PRINCIPAL RELAÇAO)<br>
-    Data de Entrega: 19/10/2016
+    Data de Entrega: (Data a ser definida)
 <br>
 OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
 
 ####9.2	SELECT DAS TABELAS COM PRIMEIROS 10 REGISTROS INSERIDOS<br> 
-    Data de Entrega: 26/10/2016
+    Data de Entrega: (Data a ser definida)
 <br>
 ####9.3	SELECT DAS VISÕES COM PRIMEIROS 10 REGISTROS DA VIEW<br>
-    Data de Entrega: 26/10/2016
+        a) Descrição da view sobre que grupos de usuários (operacional/estratégico) <br>
+        e necessidade ela contempla.
+        b) Descrição das permissões de acesso e usuários correlacionados (após definição <br>
+        destas características)
+    Data de Entrega: (Data a ser definida)
 <br>
 ####9.4	LISTA DE CODIGOS DAS FUNÇÕES, ASSERÇOES E TRIGGERS<br>
         Detalhamento sobre funcionalidade de cada código.
@@ -90,7 +94,15 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
         c) exemplo de dados para aplicação
         d) resultados em forma de tabela/imagem
 <br>
-####9.5	Backup do Banco de Dados<br>
+####9.5	Administração do banco de dados<br>
+        Descrição detalhada sobre como serão executadas no banco de dados as <br>
+        seguintes atividades.
+        a) Segurança e autorização de acesso:
+        b) Estimativas de aquisição de recursos para armazenamento e processamento da informação
+        c) Planejamento de rotinas de manutenção e monitoramento do banco
+        d) Plano com frequencia de análises visando otimização de performance
+<br>
+####9.6	Backup do Banco de Dados<br>
         Detalhamento do backup.
         a) Tempo
         b) Tamanho
@@ -99,23 +111,23 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
         e) Teste de restauração (script sql)
         f) Tempo para restauração (script sql)
 <br>
-Data de Entrega: 09/11/2016
+Data de Entrega: (Data a ser definida)
 <br>
-####9.6	APLICAÇAO DE ÍNDICES E TESTES DE PERFORMANCE<br>
+####9.7	APLICAÇAO DE ÍNDICES E TESTES DE PERFORMANCE<br>
     a) Lista de índices, tipos de índices com explicação de porque foram implementados
     b) Performance esperada VS Resultados obtidos
     c) Tabela de resultados comparando velocidades antes e depois da aplicação dos índices.
 <br>
-    Data de Entrega: 16/11/2016
+    Data de Entrega: (Data a ser definida)
 <br>   
-####9.7	ANÁLISE DOS DADOS COM ORANGE<br>    
+####9.8	ANÁLISE DOS DADOS COM ORANGE<br>    
     a) aplicação de algoritmos e interpretação dos resultados
 <br>
-    Data de Entrega: 16/11/2016
+    Data de Entrega: (Data a ser definida)
 <br>
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO/ SLIDES E ENTREGA FINAL<br>
 <br>
-    Data de Entrega: 23/11/2016
+    Data de Entrega: (Data a ser definida)
 <br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>  
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
