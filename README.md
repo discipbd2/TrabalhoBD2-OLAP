@@ -115,8 +115,10 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
         e) Teste de restauração (script sql)
         f) Tempo para restauração (script sql)
 <br>
+
 Data de Entrega: (Data a ser definida)
 <br>
+
 #### 9.7	APLICAÇAO DE ÍNDICES E TESTES DE PERFORMANCE<br>
     a) Lista de índices, tipos de índices com explicação de porque foram implementados
     b) Performance esperada VS Resultados obtidos
@@ -124,14 +126,18 @@ Data de Entrega: (Data a ser definida)
 <br>
     Data de Entrega: (Data a ser definida)
 <br>   
+
 #### 9.8	ANÁLISE DOS DADOS COM ORANGE<br>    
     a) aplicação de algoritmos e interpretação dos resultados
 <br>
     Data de Entrega: (Data a ser definida)
 <br>
+
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO/ SLIDES E ENTREGA FINAL<br>
 <br>
     Data de Entrega: (Data a ser definida)
 <br>
+
 ### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>  
+
 ### 12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
