@@ -77,16 +77,18 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 <br>
 OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
 
-#### 9.2	SELECT DAS TABELAS COM PRIMEIROS 10 REGISTROS INSERIDOS<br> 
+#### 9.2	SELECT DAS TABELAS COM PRIMEIROS 10 REGISTROS INSERIDOS <br> 
     Data de Entrega: (Data a ser definida)
 <br>
-#### 9.3	SELECT DAS VISÕES COM PRIMEIROS 10 REGISTROS DA VIEW<br>
+
+#### 9.3	SELECT DAS VISÕES COM PRIMEIROS 10 REGISTROS DA VIEW <br>
         a) Descrição da view sobre que grupos de usuários (operacional/estratégico) <br>
         e necessidade ela contempla.
         b) Descrição das permissões de acesso e usuários correlacionados (após definição <br>
         destas características)
     Data de Entrega: (Data a ser definida)
 <br>
+
 #### 9.4	LISTA DE CODIGOS DAS FUNÇÕES, ASSERÇOES E TRIGGERS<br>
         Detalhamento sobre funcionalidade de cada código.
         a) Objetivo
@@ -94,6 +96,7 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
         c) exemplo de dados para aplicação
         d) resultados em forma de tabela/imagem
 <br>
+
 #### 9.5	Administração do banco de dados<br>
         Descrição detalhada sobre como serão executadas no banco de dados as <br>
         seguintes atividades.
@@ -102,6 +105,7 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
         c) Planejamento de rotinas de manutenção e monitoramento do banco
         d) Plano com frequencia de análises visando otimização de performance
 <br>
+
 #### 9.6	Backup do Banco de Dados<br>
         Detalhamento do backup.
         a) Tempo
