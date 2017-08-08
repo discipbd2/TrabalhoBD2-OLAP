@@ -19,11 +19,9 @@ Trabalho desenvolvido durante a disciplina de BD
 DICA: 
     O kickstart normalmente lança inovaçôes em termos de Sofwares e Apps, portanto pode ser interessante 
     olhar os lançamentos recentes para incrementar as possibilidades e aguçar a criatividade, o que pode 
-    auxiliar o grupo com novas ideias na solução proposta. Acesse os links abaixo:
-        
- ##### https://www.kickstarter.com/discover/categories/technology/apps?ref=discovery_overlay
- ##### https://www.kickstarter.com/discover/categories/technology/software?ref=discovery_overlay
-        
+    auxiliar o grupo com novas ideias na solução proposta. Acesse os links ![Apps](https://www.kickstarter.com/discover/categories/technology/apps?ref=discovery_overlay "Apps no Kickstarter") e 
+![Softwares](https://www.kickstarter.com/discover/categories/technology/apps?ref=discovery_overlay "Softwares no Kickstarter") no Kickstarter
+
 # Sumário
 
 ### 1	COMPONENTES<br>
