@@ -149,3 +149,6 @@ Data de Entrega: (Data a ser definida)
 ### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>  
 
 ### 12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
+Link para BrModelo: <br>
+http://sis4.com/brModelo/brModelo/download.html
