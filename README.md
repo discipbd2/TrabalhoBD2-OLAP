@@ -80,7 +80,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         c) inclusão das instruções para execução de outros procedimentos necessários
 
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
-#### 9.1	GERACAO DE DADOS (MÍNIMO DE 1,5 MILHÃO DE REGISTROS PARA PRINCIPAL RELAÇAO)<br>
+#### 9.1	GERACAO DE DADOS (MÍNIMO DE 10 REGISTROS PARA CADA TABELA NO BANCO DE DADOS)<br>
 
 ## Data de Entrega: (18/09/2017)
 
@@ -116,7 +116,18 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
         d) Plano com frequencia de análises visando otimização de performance
 <br>
 
-#### 9.6	Backup do Banco de Dados<br>
+#### 9.6	GERACAO DE DADOS (MÍNIMO DE 1,5 MILHÃO DE REGISTROS PARA PRINCIPAL RELAÇAO)<br>
+        a) principal tabela do sistema deve ter no mínimo 1,5 milhão de registros
+        b) tabelas diretamente relacionadas a tabela principal 100 mil registros
+        c) tabelas auxiliares de relacao multivalorada mínimo de 10 registros
+        d) registrar o tempo de inserção em cada uma das tabelas do banco de dados
+        e) especificar a quantidade de registros inseridos em cada tabela
+        Para melhor compreensão verifiquem o exemplo na base de testes:<br>
+        https://github.com/discipbd2/base-de-testes-locadora
+        
+
+
+#### 9.7	Backup do Banco de Dados<br>
         Detalhamento do backup.
         a) Tempo
         b) Tamanho
@@ -129,7 +140,7 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
 Data de Entrega: (Data a ser definida)
 <br>
 
-#### 9.7	APLICAÇAO DE ÍNDICES E TESTES DE PERFORMANCE<br>
+#### 9.8	APLICAÇAO DE ÍNDICES E TESTES DE PERFORMANCE<br>
     a) Lista de índices, tipos de índices com explicação de porque foram implementados
     b) Performance esperada VS Resultados obtidos
     c) Tabela de resultados comparando velocidades antes e depois da aplicação dos índices.
@@ -137,7 +148,7 @@ Data de Entrega: (Data a ser definida)
     Data de Entrega: (Data a ser definida)
 <br>   
 
-#### 9.8	ANÁLISE DOS DADOS COM ORANGE<br>    
+#### 9.9	ANÁLISE DOS DADOS COM ORANGE<br>    
         a) captura das informaçõs
         b) integração com banco de dados em desenvolvimento
         c) aplicação de algoritmos e interpretação dos resultados
