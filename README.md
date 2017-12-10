@@ -105,6 +105,9 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
         b) Descrição das permissões de acesso e usuários correlacionados (após definição <br>
         destas características)
     Data de Entrega: (Data a ser definida)
+        c) as funcionalidades informadas no minimundo ou nos mockups(protótipos), que representarem 
+        views do sistema (relatórios, informações disponíveis para os usuários, etc) devem estar 
+        presentes aqui. 
 <br>
 
 #### 9.4	LISTA DE CODIGOS DAS FUNÇÕES, ASSERÇOES E TRIGGERS<br>
