@@ -13,6 +13,7 @@ Trabalho desenvolvido durante a disciplina de BD
         em consideração o peso destas.
         e) Os tópicos numerados para cada atividade no devem ser removidos do trabalho. Entretanto, os conteúdos de exemplo 
         em cada tópico devem ser substituídos pelo conteúdo do trabalho em desenvolvimento.
+        f) sprints de entrega serão quinzenais ou mensais definidos em aula juntamente com o professor
     
     OBS Importantes: 
         a) Os projetos/sistemas propostos serão validados pelo professor e pela turma
