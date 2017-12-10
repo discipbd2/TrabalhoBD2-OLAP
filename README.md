@@ -11,6 +11,8 @@ Trabalho desenvolvido durante a disciplina de BD
         como tarefas a serem realizadas como tarefas por meio do gerenciador de projetos do git.
         d) Todas as tarefas devem ser realizadas e deve-se atentar para distribuição igualitária de atividades levando-se 
         em consideração o peso destas.
+        e) Os tópicos numerados para cada atividade no devem ser removidos do trabalho. Entretanto, os conteúdos de exemplo 
+        em cada tópico devem ser substituídos pelo conteúdo do trabalho em desenvolvimento.
     
     OBS Importantes: 
         a) Os projetos/sistemas propostos serão validados pelo professor e pela turma
