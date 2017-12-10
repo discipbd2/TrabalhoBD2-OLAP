@@ -148,9 +148,10 @@ Data de Entrega: (Data a ser definida)
 <br>
 
 #### 9.8	APLICAÇAO DE ÍNDICES E TESTES DE PERFORMANCE<br>
-    a) Lista de índices, tipos de índices com explicação de porque foram implementados
+    a) Lista de índices, tipos de índices com explicação de porque foram implementados nas consultas 
     b) Performance esperada VS Resultados obtidos
     c) Tabela de resultados comparando velocidades antes e depois da aplicação dos índices.
+    d) Escolher as consultas mais complexas para serem analisadas (consultas com menos de 2 joins não serão aceitas)
 <br>
     Data de Entrega: (Data a ser definida)
 <br>   
