@@ -90,7 +90,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
 #### 9.1	GERACAO DE DADOS (MÍNIMO DE 10 REGISTROS PARA CADA TABELA NO BANCO DE DADOS)<br>
 
-## Data de Entrega: (18/09/2017)
+## Data de Entrega: (18/05/2018)
 
 <br>
 OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
@@ -121,7 +121,7 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
 #### 9.5	Administração do banco de dados<br>
         Descrição detalhada sobre como serão executadas no banco de dados as <br>
         seguintes atividades.
-        a) Segurança e autorização de acesso:
+        a) Segurança e autorização de acesso: especificação básica de configurações de acesso remoto
         b) Estimativas de aquisição de recursos para armazenamento e processamento da informação
         c) Planejamento de rotinas de manutenção e monitoramento do banco
         d) Plano com frequencia de análises visando otimização de performance
@@ -136,7 +136,7 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
         Para melhor compreensão verifiquem o exemplo na base de testes:<br>
         https://github.com/discipbd2/base-de-testes-locadora
         
-
+## Data de Entrega: (12/06/2018)
 
 #### 9.7	Backup do Banco de Dados<br>
         Detalhamento do backup.
@@ -160,7 +160,7 @@ Data de Entrega: (Data a ser definida)
     f) Inclusão de tabela mostrando as 10 execuções, excluindo-se o maior e menor tempos para cada consulta e 
     obtendo-se a media dos outros valores como resultado médio final.
 <br>
-    Data de Entrega: (Data a ser definida)
+## Data de Entrega: (29/06/2018)
 <br>   
 
 #### 9.9	ANÁLISE DOS DADOS COM ORANGE<br>    
