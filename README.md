@@ -160,7 +160,7 @@ Data de Entrega: (Data a ser definida)
     f) Inclusão de tabela mostrando as 10 execuções, excluindo-se o maior e menor tempos para cada consulta e 
     obtendo-se a media dos outros valores como resultado médio final.
 <br>
-## Data de Entrega: (29/06/2018)
+## Data de Entrega: (03/07/2018)
 <br>   
 
 #### 9.9	ANÁLISE DOS DADOS COM ORANGE<br>    
