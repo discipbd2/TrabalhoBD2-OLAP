@@ -163,13 +163,24 @@ Data de Entrega: (Data a ser definida)
 ## Data de Entrega: (03/07/2018)
 <br>   
 
-#### 9.9	ANÁLISE DOS DADOS COM ORANGE<br>    
-        a) captura das informaçõs
-        b) integração com banco de dados em desenvolvimento
-        c) aplicação de algoritmos e interpretação dos resultados
-        c) atualização da documentação do trabalho incluindo a mineração de dados
+#### 9.9 TRABALHO INDIVIDUAL - Machine Learning e Data Mining
+### Estudar algum dos algoritmos abaixo
+### Incluir no trabalho os seguintes tópicos: 
+* Explicação/Fundamentação teórica sobre o método, objetivos e restrições! (formato doc/odt ou PDF)
+* Onde/quando aplicar 
+* exemplo de uso/aplicação (enviar código executável junto do trabalho com detalhamento de explicação para uso passo a passo)
+
+Exemplos de métodos/algoritmos a serem estudados
+* "Nearest Neighbors" 
+* "Linear SVM" 
+* "RBF SVM" 
+* "Decision Tree" 
+* "Random Forest"
+* Pca  
+* "Naive Bayes"
+
 <br>
-    Data de Entrega: (Data a ser definida)
+    Data de Entrega: (07/07/2018)
 <br>
 
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO/ SLIDES E ENTREGA FINAL<br>
