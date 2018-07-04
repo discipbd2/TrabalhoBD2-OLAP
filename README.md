@@ -179,6 +179,8 @@ Exemplos de métodos/algoritmos a serem estudados
 * Pca  
 * "Naive Bayes"
 
+Referência: http://scikit-learn.org/stable/index.html
+
 <br>
     Data de Entrega: (07/07/2018)
 <br>
