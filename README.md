@@ -168,7 +168,10 @@ Data de Entrega: (Data a ser definida)
 ### Incluir no trabalho os seguintes tópicos: 
 * Explicação/Fundamentação teórica sobre o método, objetivos e restrições! (formato doc/odt ou PDF)
 * Onde/quando aplicar 
-* exemplo de uso/aplicação (enviar código executável junto do trabalho com detalhamento de explicação para uso passo a passo)
+* exemplo de uso/aplicação 
+> ##### implementar algoritmo de exemplo obtido na literatura (enviar código executável junto do trabalho com detalhamento de explicação para uso passo a passo)
+> ##### OU
+> ##### Estudar e explicar artigo que aplique algum método de mineração de dados/machine learning 
 
 Exemplos de métodos/algoritmos a serem estudados
 * "Nearest Neighbors" 
