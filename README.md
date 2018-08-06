@@ -98,7 +98,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
 
 #### 9.2	SELECT DAS TABELAS COM PRIMEIROS 10 REGISTROS INSERIDOS <br> 
-    Data de Entrega: (Data a ser definida)
+    
 <br>
 
 #### 9.3	SELECT DAS VISÕES COM PRIMEIROS 10 REGISTROS DA VIEW <br>
@@ -106,7 +106,6 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
         e necessidade ela contempla.
         b) Descrição das permissões de acesso e usuários correlacionados (após definição <br>
         destas características)
-    Data de Entrega: (Data a ser definida)
         c) as funcionalidades informadas no minimundo ou nos mockups(protótipos), que representarem 
         views do sistema (relatórios, informações disponíveis para os usuários, etc) devem estar 
         presentes aqui. 
@@ -188,13 +187,10 @@ Exemplos de métodos/algoritmos a serem estudados
 Referência: http://scikit-learn.org/stable/index.html
 
 <br>
-    Data de Entrega: (06/12/2018)
+## Data de Entrega: (06/12/2018)
 <br>
 
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO/ SLIDES E ENTREGA FINAL<br>
-<br>
-    Data de Entrega: (Data a ser definida)
-<br>
        
 ### 11  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 <comentario no git>
