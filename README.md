@@ -185,10 +185,16 @@ Exemplos de métodos/algoritmos a serem estudados
 * Pca  
 * "Naive Bayes"
 Referência: http://scikit-learn.org/stable/index.html
+Referências adicionais:
+Scikit learning Map : http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+Machine learning in Python with scikit-learn: https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A
+
+
 
 <br>
+
 ## Data de Entrega: (06/12/2018)
-<br>
+
 
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO/ SLIDES E ENTREGA FINAL<br>
        
