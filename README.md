@@ -56,6 +56,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![Alt text](https://github.com/discipbd2/topicos-trabalho/blob/master/sample_MC.png?raw=true "Modelo Conceitual")
     
      5.2 NOTACAO UML (Caso esteja fazendo a disciplina de Projeto)
+## Data de Entrega: (23/08/2018) 
+(Apresentação para o professor em sala de aula)
 
 #### 5.3 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
@@ -90,7 +92,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
 #### 9.1	GERACAO DE DADOS (MÍNIMO DE 10 REGISTROS PARA CADA TABELA NO BANCO DE DADOS)<br>
 
-## Data de Entrega: (18/05/2018)
+## Data de Entrega: (06/09/2018)
 
 <br>
 OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
@@ -118,6 +120,8 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
         d) resultados em forma de tabela/imagem
 <br>
 
+## Data de Entrega: (27/09/2018)
+
 #### 9.5	Administração do banco de dados<br>
         Descrição detalhada sobre como serão executadas no banco de dados as <br>
         seguintes atividades.
@@ -136,7 +140,7 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
         Para melhor compreensão verifiquem o exemplo na base de testes:<br>
         https://github.com/discipbd2/base-de-testes-locadora
         
-## Data de Entrega: (12/06/2018)
+## Data de Entrega: (31/10/2018)
 
 #### 9.7	Backup do Banco de Dados<br>
         Detalhamento do backup.
@@ -148,8 +152,6 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
         f) Tempo para restauração (script sql)
 <br>
 
-Data de Entrega: (Data a ser definida)
-<br>
 
 #### 9.8	APLICAÇAO DE ÍNDICES E TESTES DE PERFORMANCE<br>
     a) Lista de índices, tipos de índices com explicação de porque foram implementados nas consultas 
@@ -160,18 +162,20 @@ Data de Entrega: (Data a ser definida)
     f) Inclusão de tabela mostrando as 10 execuções, excluindo-se o maior e menor tempos para cada consulta e 
     obtendo-se a media dos outros valores como resultado médio final.
 <br>
-## Data de Entrega: (03/07/2018)
+
+## Data de Entrega: (22/11/2018)
+
 <br>   
 
-#### 9.9 TRABALHO INDIVIDUAL - Machine Learning e Data Mining
+#### 9.9 TRABALHO EM DUPLA - Machine Learning e Data Mining
 ### Estudar algum dos algoritmos abaixo
 ### Incluir no trabalho os seguintes tópicos: 
 * Explicação/Fundamentação teórica sobre o método, objetivos e restrições! (formato doc/odt ou PDF)
 * Onde/quando aplicar 
+> ##### Estudar e explicar artigo que aplique o método de mineração de dados/machine learning escolhido
 * exemplo de uso/aplicação 
 > ##### implementar algoritmo de exemplo obtido na literatura (enviar código executável junto do trabalho com detalhamento de explicação para uso passo a passo)
-> ##### OU
-> ##### Estudar e explicar artigo que aplique algum método de mineração de dados/machine learning 
+> Aplicar em alguma base de dados aberta (governamental ou sites de datasets disponíveis)
 
 Exemplos de métodos/algoritmos a serem estudados
 * "Nearest Neighbors" 
@@ -181,22 +185,18 @@ Exemplos de métodos/algoritmos a serem estudados
 * "Random Forest"
 * Pca  
 * "Naive Bayes"
-
 Referência: http://scikit-learn.org/stable/index.html
 
 <br>
-    Data de Entrega: (07/07/2018)
+    Data de Entrega: (06/12/2018)
 <br>
 
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO/ SLIDES E ENTREGA FINAL<br>
 <br>
     Data de Entrega: (Data a ser definida)
 <br>
-
-### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>  
-
        
-### 12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+### 11  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 <comentario no git>
     
 ##### About Formatting
