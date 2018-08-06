@@ -173,8 +173,8 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
 * Onde/quando aplicar 
 > ##### Estudar e explicar artigo que aplique o método de mineração de dados/machine learning escolhido
 * exemplo de uso/aplicação 
-> ##### implementar algoritmo de exemplo obtido na literatura (enviar código executável junto do trabalho com detalhamento de explicação para uso passo a passo)
-> Aplicar em alguma base de dados aberta (governamental ou sites de datasets disponíveis)
+> ##### a) Implementar algoritmo de básico de exemplo obtido na literatura (enviar código executável junto do trabalho com detalhamento de explicação para uso passo a passo)
+> #####  b) Aplicar em alguma base de dados aberta (governamental ou sites de datasets disponíveis), registrar e apresentar resultados e algoritmo desenvolvido.
 
 Exemplos de métodos/algoritmos a serem estudados
 * "Nearest Neighbors" 
@@ -184,7 +184,9 @@ Exemplos de métodos/algoritmos a serem estudados
 * "Random Forest"
 * Pca  
 * "Naive Bayes"
+<br>
 Referência: http://scikit-learn.org/stable/index.html
+<br>
 Referências adicionais:
 Scikit learning Map : http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 Machine learning in Python with scikit-learn: https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A
